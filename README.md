@@ -34,7 +34,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### 💜 Heroku - simplest way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/videostream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/adithasuvi/videostream)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -58,7 +58,7 @@ python3 -m Bot
 
 # Support 
 
-<a href="https://t.me/lntechnicalgroup"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/lntechnical"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/www_SL_Cricket_com"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/lntechnical"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 
