@@ -6,7 +6,7 @@
         "pytgcalss"
     ],
     "repository": "https://github.com/adithasuvi/videostream",
-    "success_url": "https://telegram.dog/lntechnical",
+    "success_url": "https://t.me/www_SL_Cricket_com",
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
